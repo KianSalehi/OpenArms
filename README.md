@@ -1,5 +1,6 @@
 # Open Arms
 Mobile andriod app utilising AI technology to personalise support for international students
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hChfvfB2moY/0.jpg)](https://youtu.be/hChfvfB2moY)
 
 ## Inspiration
 With COVID-19 majorly impacting people's lives and limiting meaningful social interactions, we feel that it is more important than ever to promote positive communications online. Aside from the daily happenings found on social media, we offer a service more suited for building support connections for students. We want to create an accepting and reassuring environment for students to share and realize that they are not alone with any struggles they are facing. We hope that this project could help with students' mental health across the world, especially for students studying overseas, where communication between family and friends is more difficult. The virtual environment is accessible to counselors and mentors from anywhere in the world, so international students will be less limited by language restrictions they may face in trying to seek help in a foreign country.
